@@ -62,7 +62,8 @@
       opacity: 0.8;
       cursor: pointer;
     }
-    span {
+    a {
+      all: unset;
       margin-right: 2rem;
     }
   }
