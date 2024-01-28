@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 import style from "@/styles/header.module.scss";
 import style2 from "@/styles/menu.module.scss";
-import img from "@/public/nav.png";
+import img from "@/public/nav.jpeg";
 import { Fade as HamburgerIcon } from "hamburger-react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";

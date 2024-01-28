@@ -15,7 +15,7 @@
   .boxes {
     @include flexer(row, space-between);
     width: 80%;
-    gap: 2rem;
+    // gap: 2rem;
     .box {
       padding: 1.5rem;
       border: 4px solid $lgreen;
@@ -34,30 +34,29 @@
   }
 }
 
-@media screen and (max-width:768px) {
-  .personal{
+@media screen and (max-width: 768px) {
+  .personal {
     height: fit-content;
-    h1{
+    h1 {
       padding-top: 3rem;
     }
-    .boxes{
+    .boxes {
       gap: 4rem;
-      // margin-bottom: 4rem;
       @include flexer(column, space-between);
     }
   }
 }
 
 @media screen and (max-width: 425px) {
-  .personal{
+  .personal {
     overflow: hidden;
     height: fit-content;
     width: fit-content;
-    h1{
+    h1 {
       font-size: 2.5rem;
     }
-    .boxes{
-      .box{
+    .boxes {
+      .box {
         width: 65%;
       }
     }
