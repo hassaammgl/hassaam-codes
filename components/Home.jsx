@@ -46,8 +46,8 @@ const Home = () => {
         </div>
         <div className={style.heading}>
           <h1>
-            A <span>Frontend Engineer.</span> I Help Startups{" "}
-            <span>Launch</span> And <span>Grow</span> Their Products.
+            A <span>Full Stack Developer.</span> I Help Businesses to 
+            <span> Launch</span> And <span>Grow</span> Their Products.
           </h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo enim
