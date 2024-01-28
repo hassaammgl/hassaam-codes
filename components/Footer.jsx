@@ -29,7 +29,7 @@ const Footer = () => {
         </Link>
       </div>
       <div className={style.shoot}>
-        <Link target="_blank"  href={"https://hassaamfreelancing2@gmail.com"}>SHOOT ME A MAIL</Link>
+        <Link target="_blank"  href={"mailto:hassaamfreelancing2@gmail.com"}>SHOOT ME A MAIL</Link>
         <MdAttachEmail />
       </div>
       <div className={style.mainfooter}>
