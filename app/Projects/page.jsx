@@ -20,7 +20,8 @@ let array = [
       "Nigerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
       "Builda platyofrm that will enable these companies at the top of a button know what regulations apply to tgheir incorporated compnay without having to afford a lawyer.",
-    websiteLink: "www.instagram.com",
+    websiteLink: "https://www.instagram.com",
+    target: "_blank",
     right: true,
   },
   {
@@ -30,7 +31,8 @@ let array = [
       "NIgerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
       "Builda platyofrm that will enable these companies at the top of a button know what regulations apply to tgheir incorporated compnay without having to afford a lawyer.",
-    websiteLink: "www.google.com",
+    websiteLink: "https://www.google.com",
+    target: "_blank",
     right: false,
   },
   {
@@ -41,6 +43,7 @@ let array = [
     solution:
       "Builda platyofrm that will enable these companies at the top of a button know what regulations apply to tgheir incorporated compnay without having to afford a lawyer.",
     websiteLink: "www.google.com",
+    target: "_blank",
     right: true,
   },
   {
