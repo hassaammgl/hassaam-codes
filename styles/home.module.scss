@@ -127,7 +127,7 @@
 .box {
   flex-direction: row;
   justify-content: flex-start;
-  background-color:$dgreen;
+  // background-color:$dgreen;
   color: $lgreen;
   font-family: font;
   display: flex;
@@ -137,6 +137,8 @@
   margin-bottom: 1rem;
   letter-spacing: 2px;
   border-radius: 10px;
+  border: 2px solid $dgreen;
+  font-weight: bolder;
   font-size: 25px;
 
   .hand {
