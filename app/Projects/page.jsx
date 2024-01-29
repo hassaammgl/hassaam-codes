@@ -2,8 +2,8 @@ import Header from "@/components/Header";
 import img1 from "@/public/1.png";
 import img2 from "@/public/2.png";
 import img3 from "@/public/3.png";
-import img4 from "@/public/p6.webp";
-import img5 from "@/public/p5.jpg";
+import img4 from "@/public/41.png";
+import img5 from "@/public/51.png";
 import img6 from "@/public/5.png";
 import style from "@/styles/projects.module.scss";
 import Image from "next/image";
@@ -17,7 +17,7 @@ let array = [
     img: img1,
     title: "ALLAN JOHNSON",
     problem:
-      "NIgerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
+      "Nigerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
       "Builda platyofrm that will enable these companies at the top of a button know what regulations apply to tgheir incorporated compnay without having to afford a lawyer.",
     websiteLink: "www.instagram.com",
