@@ -15,7 +15,6 @@
   .boxes {
     @include flexer(row, space-between);
     width: 80%;
-    // gap: 2rem;
     .box {
       padding: 1.5rem;
       border: 4px solid $lgreen;
@@ -47,7 +46,7 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
   .personal {
     overflow: hidden;
     height: fit-content;
@@ -57,7 +56,7 @@
     }
     .boxes {
       .box {
-        width: 98%;
+        width: 100%;
       }
     }
   }
