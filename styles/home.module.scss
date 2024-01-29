@@ -128,17 +128,17 @@
   flex-direction: row;
   justify-content: flex-start;
   color: $lgreen;
-  font-family: font;
+  font-family: $cute;
   display: flex;
-  padding: 1.2rem 1.6rem;
+  padding: 1rem 1.2rem;
   align-items: center;
-  width: 28rem;
+  width: 33rem;
   margin-bottom: 1rem;
   letter-spacing: 2px;
   border-radius: 10px;
   border: 2px solid $dgreen;
   font-weight: bolder;
-  font-size: 25px;
+  font-size: 35px;
 
   .hand {
     padding-right: 0.5rem;
