@@ -15,7 +15,7 @@ import style2 from "@/styles/visitbtn.module.scss";
 let array = [
   {
     img: img1,
-    title: "ALLAN JOHNSON",
+    title: "PORTFOLIO WEBSITE",
     problem:
       "Nigerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
@@ -25,7 +25,7 @@ let array = [
   },
   {
     img: img2,
-    title: "WILD CARE",
+    title: "BLOG WEBSITE",
     problem:
       "NIgerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
@@ -35,7 +35,7 @@ let array = [
   },
   {
     img: img3,
-    title: "ARSHA",
+    title: "TINDER",
     problem:
       "NIgerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
@@ -45,7 +45,7 @@ let array = [
   },
   {
     img: img4,
-    title: "CODER",
+    title: "PORTFOLIO WEBSITE",
     problem:
       "NIgerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
@@ -55,7 +55,7 @@ let array = [
   },
   {
     img: img5,
-    title: "ARARAT",
+    title: "PORTFOLIO WEBSITE",
     problem:
       "NIgerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
@@ -65,7 +65,7 @@ let array = [
   },
   {
     img: img6,
-    title: "PORTFOLIO",
+    title: "PARRE TEXTILES",
     problem:
       "Nigerian businesses across all sectors especially ME's struggle to comply with compnay legal regulations.",
     solution:
