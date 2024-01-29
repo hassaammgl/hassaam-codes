@@ -12,19 +12,19 @@ const Footer = () => {
       <h1>CONNECT WITH ME</h1>
       <div className={style.links}>
         <Link className={style.social} target="_blank" href={"https://github.com/hassaammgl"}>
-          <span>.Github()</span>
+          <span>.Github();</span>
           <FaGithub className={style.icon} />
         </Link>
         <Link className={style.social} target="_blank"  href={"https://www.linkedin.com/in/m-hassaam-mughal-91668a256/"}>
-          <span>.Linkedin()</span>
+          <span>.Linkedin();</span>
           <FaLinkedin className={style.icon} />
         </Link>
         <Link className={style.social} target="_blank"  href={"https://twitter.com/MughalHassaam"}>
-          <span>.Twitter()</span>
+          <span>.Twitter();</span>
           <BsTwitterX className={style.icon} />
         </Link>
         <Link className={style.social} target="_blank"  href={"https://www.instagram.com/hassaammughal8844/"}>
-          <span>.Instagram()</span>
+          <span>.Instagram();</span>
           <FaInstagram className={style.icon} />
         </Link>
       </div>
