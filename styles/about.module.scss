@@ -2,19 +2,24 @@
 .background {
   @include flexer();
   height: fit-content;
-  padding: 2rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
   .bg {
     background: #000000a8;
     color: white;
-    width: 80%;
+    width: 89%;
     font-size: large;
     font-family: font;
     height: fit-content;
-    text-align: center;
+    text-align: start;
     font-family: $fonts;
     font-size: 1.5rem;
-    padding: 1rem;
+    padding: 1.8rem;
     border: 3px solid $lgreen;
-    box-shadow: 15px 15px $lgreen;
+    // box-shadow: 10px 10px $lgreen;
+
+    @media screen and (max-width:550px) {
+      padding: .6rem;
+    }
   }
 }
